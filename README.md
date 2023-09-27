@@ -3,13 +3,9 @@
 ## URL Link to WebPage:
 Open this page at <https://nikita-davids.github.io/WebPage/)/ReadMeWebsiteTest/>
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
 
+## Get Connected 
+Let's get connect together.You can contact me on <https://kitadavids@gmail.com)/ReadMeWebsiteTest/>
 
 
 
