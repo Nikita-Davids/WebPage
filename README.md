@@ -1,7 +1,7 @@
 
-## URL Link to WebPage:
+:shipit:## URL Link to WebPage:
 Open this page at <https://nikita-davids.github.io/WebPage/)/ReadMeWebsiteTest/>
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+ 
 
 
 > [!NOTE]
