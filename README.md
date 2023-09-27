@@ -13,7 +13,7 @@ Open this page at <https://nikita-davids.github.io/WebPage/)/ReadMeWebsiteTest/>
 -Android Studio
 -Netbeans
 -PhP Storm
-- banana
+-
 
 
 
