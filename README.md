@@ -5,7 +5,7 @@ Open this page at <https://nikita-davids.github.io/WebPage/)/ReadMeWebsiteTest/>
 
 
 ## Get Connected 
-Let's get connect together.You can contact me on <https://kitadavids@gmail.com)/ReadMeWebsiteTest/>
+Let's get connect together.You can contact me on <https://kitadavids@gmail.com)/>
 
 
 
