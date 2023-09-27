@@ -1,5 +1,5 @@
 
-:shipit:## URL Link to WebPage:
+## URL Link to WebPage:
 Open this page at <https://nikita-davids.github.io/WebPage/)/ReadMeWebsiteTest/>
  
 
@@ -9,6 +9,7 @@ Open this page at <https://nikita-davids.github.io/WebPage/)/ReadMeWebsiteTest/>
 
 
 ### Familiar IDE's worked on:
+
 
 
 
