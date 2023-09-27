@@ -9,6 +9,10 @@ Open this page at <https://nikita-davids.github.io/WebPage/)/ReadMeWebsiteTest/>
 
 
 ### Familiar IDE's worked on:
+-Visual Studio Code
+-Android Studio
+-Netbeans
+-PhP Storm
 
 
 
